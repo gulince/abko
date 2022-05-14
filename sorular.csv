@@ -1,0 +1,171 @@
+soru,s1,s2,s3,s4,answer,Type,a1,a2,a3,a4,a5,a6,a7,a8,a9,a10,a11,a12,a13,a14,a15,a16,d1,d2,d3
+"Bir yazý yazarken, bir ödev yaparken, yazým (imla) kurallarýna dikkat eder misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0.965,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.854,0.167,-1.531
+Bir hikaye kitabýný hýzlý ve doðru okuyabilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,1.081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.619,1.253,-0.714
+Kelimeleri doðru bir biçimde yazabiliyor ve söyleyebiliyor musunuz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0.947,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.424,1.946,-0.39
+Bir parçayý bir kere okuduktan sonra hemen özetleyebiliyor musunuz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,1.106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.009,0.383,-1.57
+Yeni duyduðunuz kelimelerin anlamlarýný öðrenmeye çalýþýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.868,0.686,-0.695
+ Okuduðunuz bir parçada belirten fikirler arsýnda iliþki kurabiliyor musunuz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,1.542,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.672,0.989,-1.218
+"Bir konuda edindiðiniz bilgileri, kendi sözcüklerinizle baþkalarýna aktarabiliyor musunuz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,1.381,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.312,1.604,-0.283
+"Bir konuyu söz ve yazý ile anlatýrken, fikirleri doðru bir sýra ile verebiliyor musunuz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,1.661,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.28,1.137,-1.442
+ Bir yazýdaki fikir ve ifade hatalarýný kolaylýkla görebilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,1.431,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.753,0.765,-1.325
+ Akýcý bir üslupla güzel yazý (örneðin bir mektup) yazabilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,1.454,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.976,0.577,-1.148
+Okuduðunuz bir parçada anlatýlan fikirleri bulup özetleyebiliyor musunuz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,1.707,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.796,0.742,-1.402
+" Çarpým tablosunu, bölme iþlemini kolay öðrenebildiniz mi?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,1.161,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.346,1.782,0.485
+"Dört iþlemle akýldan, hýzlý problem çözebilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,1.544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.904,0.281,-1.673
+" Bir matematik probleminin çözüm yolunu öðrendikten sonra, ona benzer problemleri çözebiliyor musunuz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,1.813,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.117,1.542,-0.52
+Sizin düzeyinizde bir matematik kitabýný okuyarak bir problemin çözüm yolunu bulabiliyor musunuz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,2.177,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.878,0.645,-1.783
+"Boþ zamanlarýnýzda, zevk için matematik problemleri çözmeye çalýþýr mýsýnýz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,1.547,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.671,-1.306,-2.546
+"Matematik dersinde, özel bir yardým (ders) almadan baþarýlý olabiliyor musunuz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,2.179,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.737,0.154,-2.048
+Öðrendiðiniz matematik kurallarýna fen bilgisi derslerindeki problemlere uygulayabiliyor musunuz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,1.404,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.798,0.456,-1.255
+"Bir problemin, size öðretilen çözüm yollarýndan farklý çözüm yollarýný bulabilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,1.309,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.188,-0.269,-1.995
+"Sizin düzeyinizde, ama daha önce hiç görmediðiniz bir matematik kitabýný rahatlýkla okuyabilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.305,-0.003,-1.968
+Satranç öðrenmek için çaba sarfediyor musunuz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0.441,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.303,0.163,-0.832
+Birbirine çok benzeyen iki resim arasýndaki küçük farklarý hemen görebilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0.867,0,0,0,0,0,0,0,0,0,0,0,0,0,4.349,1.329,-0.663
+Bir dairenin merkezini doðru bir biçimde tahmin ederek iþaretleyebilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,1.053,0,0,0,0,0,0,0,0,0,0,0,0,0,2.63,0.539,-1.087
+"Ýki çizgi arsýnda çok az bir uzunluk farký olduðunda, bunu kolaylýkla algýlayabilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0.942,0,0,0,0,0,0,0,0,0,0,0,0,0,3.883,1.501,-0.12
+Bir doðru parçasýnýn kaç santimetre olduðunu doðru tahmin edebilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,1.075,0,0,0,0,0,0,0,0,0,0,0,0,0,2.04,-0.572,-2.592
+Ýlk defa gittiðiniz binada yönünüzü bulabiliyor musunuz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0.766,0,0,0,0,0,0,0,0,0,0,0,0,0,3.095,1.066,-0.399
+"Bir defa baþkalarý ile birlikte gittiðiniz bir yeri, ikinci defa yalnýz baþýna gittiðinizde, kolaylýkla bulabilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0.819,0,0,0,0,0,0,0,0,0,0,0,0,0,3.749,1.596,0.04
+Geliþigüzel parçalarý ayrýlmýþ bir þeklin veya cismin parçalarýný eski yerlerine kolaylýkla yerleþtirebilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,1.207,0,0,0,0,0,0,0,0,0,0,0,0,0,4.521,1.731,-0.585
+"Açýlmýþ hali verilen geometrik bir cismin, kapandýðý zaman açýlacaðý þekli göz önünde canlandýrabilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,1.13,0,0,0,0,0,0,0,0,0,0,0,0,0,3.595,1.345,-0.237
+"Karmaþýk bir geometrik þeklin, saða ve sola döndürülmesi ile alacaðý durumu gözönünde canlandýrabilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,1.308,0,0,0,0,0,0,0,0,0,0,0,0,0,2.781,0.596,-1.141
+"Bir  evin  planýna baktýðýnýzda, evin yapýlmýþ halini gözönünde canlandýrabilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,1.034,0,0,0,0,0,0,0,0,0,0,0,0,0,2.603,0.837,-0.637
+" Desenli kaðýtlarý, þekilleri birbirine tamamlayacak þekilde, yan yana yapýþtýrabilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,1.172,0,0,0,0,0,0,0,0,0,0,0,0,0,3.681,1.591,-0.095
+"Bir kaðýda, cetvel kullanmadan düzgün paralel çizgiler çizebiliyor musunuz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,1.02,0,0,0,0,0,0,0,0,0,0,0,0,2.454,0.586,-1.117
+" Bir  kaðýda çizilen yýldýz biçimindeki bir þekli makasla, düzgün bir biçimde kesip çýkarabilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,1.18,0,0,0,0,0,0,0,0,0,0,0,0,3.441,1.785,0.32
+Alet kullanmadan düzgün geometrik þekiller çizebilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,1.206,0,0,0,0,0,0,0,0,0,0,0,0,2.507,0.397,-1.242
+Attýðýnýz bir bilyeyi veya bir taþý istediðiniz hedefe  gönderebilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,1.028,0,0,0,0,0,0,0,0,0,0,0,0,3.516,0.861,-1.217
+"Bir aletin (örneðin, saatin) çok küçük bir parçasýný (vidasýný) yerine kolayca yerleþtirebilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,1.157,0,0,0,0,0,0,0,0,0,0,0,0,3.396,1.459,-0.168
+"Bir bilyeyi, baþka bir bilye ile vurarak, istediðiniz hedefe gönderebilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,1.099,0,0,0,0,0,0,0,0,0,0,0,0,2.728,0.246,-1.456
+"Bir pastayý veya böreði, eþit olarak ve düzgün biçimde kesebilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,1.292,0,0,0,0,0,0,0,0,0,0,0,0,3.278,1.22,-0.454
+"Küçük bir deliðe, ince bir çubuðu, deliðin kenarýna deðdirmeden sokabilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,1.238,0,0,0,0,0,0,0,0,0,0,0,0,2.385,0.386,-1.261
+"Küçük bir þeklin (örneðin bir çiçek resminin) içini, dýþarý taþýrmadan sulu boya ile boyayabilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,1.244,0,0,0,0,0,0,0,0,0,0,0,0,2.682,0.924,-0.744
+Dar bir alana düzgün yazý yazabilir misniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,1.061,0,0,0,0,0,0,0,0,0,0,0,0,2.286,0.488,-0.932
+Okçuluk ya da atýcýlýk kursuna gitmek ister misiniz? ,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0.694,0,0,0,0,0,0,0,0,0,0,0,0,1.118,0.13,-0.639
+Fen dersleri ile ilgili konularý kolay öðrenebiliyor musunuz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0.993,0,0,0,0,0,0,0,0,0,0,0,2.731,0.679,-1.09
+"Gelecekte kendinizi, laboratuarda araþtýrmacý olarak düþlediðiniz olur mu?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,1.136,0,0,0,0,0,0,0,0,0,0,0,0.91,-0.501,-1.611
+Fen derslerinde öðrendiðiniz ilke ve kurallarý evinizdeki sorunlarýn çözümünde kullanýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,1.162,0,0,0,0,0,0,0,0,0,0,0,2.294,0.089,-1.252
+Fen dersleri ile ilgili konularda sýnýfta öðretilenlerden daha fazla bilgi edinmek için baþka kaynaklara baþvurduðunuz oluyor mu?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,1.273,0,0,0,0,0,0,0,0,0,0,0,1.928,-0.146,-1.615
+Fen bilgisi ile ilgili problemleri çözmekten hoþlanýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,1.376,0,0,0,0,0,0,0,0,0,0,0,2.044,0.115,-1.304
+Deniz dibindeki hayatý gösteren bir filmi ilgi ve dikkatle izler misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0.817,0,0,0,0,0,0,0,0,0,0,0,2.855,1.126,-0.01
+Büyük coðrafya keþiflerini anlatan bir televizyon dizisini izlemekten hoþlanýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,1.195,0,0,0,0,0,0,0,0,0,0,0,1.677,-0.195,-1.372
+Bilimsel proje sergilerini gezer misiniz? Ya da gezmek ister misiniz? ,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,1.368,0,0,0,0,0,0,0,0,0,0,0,2.698,0.705,-0.647
+Televizyonda bilimsel buluþlarý anlatan belgesel programlarý izler misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,1.752,0,0,0,0,0,0,0,0,0,0,0,2.209,0.161,-1.205
+Ünlü bilim adamlarýnýn hayatýný anlatan televizyon dizilerini izler misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,1.537,0,0,0,0,0,0,0,0,0,0,0,1.798,-0.237,-1.571
+"Uzay araçlarýnýn, roketlerin evrimini gösteren bir sergiyi izlemek ister misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,1.371,0,0,0,0,0,0,0,0,0,0,0,2.271,0.647,-0.453
+"Bir þehire gittiðinizde, müzeleri, tarihi yerleri gezer misiniz? Ya da gezmek ister misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0.749,0,0,0,0,0,0,0,0,0,0,2.613,1.181,0.223
+ Çeþitli atasözlerinin ve özdeyiþlerin nereden çýktýðýný araþtýrmak ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,1.179,0,0,0,0,0,0,0,0,0,0,1.737,-0.342,-1.595
+Ýnsanlarýn ne düþündüklerini ve ne hissettiklerini incelemekten hoþlanýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0.594,0,0,0,0,0,0,0,0,0,0,2.116,0.727,-0.375
+Tarih ve coðrafya derslerinde okutulan konularý kolay öðrenebiliyor musunuz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,1.032,0,0,0,0,0,0,0,0,0,0,1.989,0.06,-1.51
+Ýnsanlarýn gazetelerde hangi haberleri merakla okuduklarýný araþtýrmak ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,1.263,0,0,0,0,0,0,0,0,0,0,0.922,-0.546,-1.745
+Tarih romanlarý okumaktan hoþlanýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,1.274,0,0,0,0,0,0,0,0,0,0,0.954,-0.764,-1.798
+“Çocuklarda yaratýcýlýk” baþlýklý bir makaleyi okumak ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0.925,0,0,0,0,0,0,0,0,0,0,1.889,0.304,-0.867
+Çevrenizdeki insanlarýn davranýþlarýnýn nedenlerini merak edip araþtýrýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0.834,0,0,0,0,0,0,0,0,0,0,1.818,0.191,-0.938
+Ünlü toplum liderlerinin hayatýný anlatan eserleri okumak veya filmleri izlemek ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,1.391,0,0,0,0,0,0,0,0,0,0,1.911,0.076,-1.245
+ “Ýnsan haklarý” konulu bir ödev hazýrlayýp sýnýfta sunmak ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,1.141,0,0,0,0,0,0,0,0,0,0,1.395,-0.244,-1.448
+Orta Asya’daki eski uygarlýk eserlerini gösteren bir belgesel filmi izlemekten hoþlanýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,1.351,0,0,0,0,0,0,0,0,0,0,1.248,-0.345,-1.506
+Ýnanç ve düþüncelerinizi baþkalarýna kolaylýkla aktarabilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,1.34,0,0,0,0,0,0,0,0,0,3.208,1.239,-0.486
+"Tartýþmalarda güçlü kanýtlar bularak, görüþünüzü karþýnýzdakilere kabul ettirebilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,1.521,0,0,0,0,0,0,0,0,0,4.017,1.695,-0.204
+ Arkadaþlarýnýz arasýndaki çatýþmalarýn çözümünde arabuluculuk yapar mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,1.023,0,0,0,0,0,0,0,0,0,2.367,0.672,-0.774
+Çevrenizde “Hazýrcevap” bir kiþi olarak tanýnýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0.818,0,0,0,0,0,0,0,0,0,1.546,-0.036,-1.177
+Söz ve davranýþlarýnýzýn baþkalarý üzerindeki etkilerini öðrenmeye çalýþýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,1.273,0,0,0,0,0,0,0,0,0,2.98,0.992,-0.615
+Konuþurken çevrenizdeki insanlarýn ilgisini çekebilir ve görüþlerinizi onlara kabul ettirebilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,1.904,0,0,0,0,0,0,0,0,0,4.2,1.385,-1.172
+Sizin gibi düþünmeyen insanlarý ikna etmek için uzun tartýþmalara girer misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0.936,0,0,0,0,0,0,0,0,0,1.999,0.324,-0.917
+Güzel konuþma ve baþkalarýný ikna edebilme gücünü geliþtirici kurslara katýlmak ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0.91,0,0,0,0,0,0,0,0,0,1.585,0.3,-0.774
+Konuþtuðunuz zaman kendinizi çevrenizdeki insanlara dinletebiliyor musunuz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,1.633,0,0,0,0,0,0,0,0,0,3.87,1.624,-0.874
+Görüþlerinize karþý çýkýldýðýnda bunu soðukkanlýlýkla karþýlar mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0.592,0,0,0,0,0,0,0,0,0,1.934,0.172,-1.083
+Yabancý dil ders saatlerinin artýrýlmasýný istediðiniz olur mu ? ,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,1.855,0,0,0,0,0,0,0,0,0.98,-0.441,-1.582
+Yabancý dildeki kelimeleri kolaylýkla ezberleyebiliyor musunuz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,1.657,0,0,0,0,0,0,0,0,3.014,0.534,-1.301
+"Bir yabancý turistle, bildiðiniz yabancý dille konuþmaya çalýþýr mýsýnýz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,1.345,0,0,0,0,0,0,0,0,2.117,0.603,-0.671
+Gelecekte yabancý dilinizi ilerletip o dilde yazýlmýþ dergi ve kitaplarý okumayý düþünür müsünüz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,2.005,0,0,0,0,0,0,0,0,2.751,1.132,-0.412
+ Yeni öðrendiðiniz yabancý dildeki sözcükleri doðru biçimde söylemeye gayret eder misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,1.352,0,0,0,0,0,0,0,0,2.561,0.981,-0.357
+Belleðiniz kuvvetli midir?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0.462,0,0,0,0,0,0,0,0,3.368,1.55,-0.344
+ Yabancý dil kurslarýna gitmek ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,2.188,0,0,0,0,0,0,0,0,2.132,0.363,-1.083
+ Yabancý dilde þarký söylemeye özenir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,1.194,0,0,0,0,0,0,0,0,1.74,0.454,-0.589
+ Yabancý dil dersinde baþarýlý mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,2.033,0,0,0,0,0,0,0,0,2.532,0.363,-1.44
+Boþ vakitlerinizde yabancý dille yazýlmýþ gazete ya da kitap okumaya çalýþýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,1.421,0,0,0,0,0,0,0,0,0.604,-0.792,-2.023
+Gelecekte kendinizi çeþitli dillerin yapý ve özellikleri üzerinde çalýþan bir araþtýrmacý olarak düþünebilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0.892,0,0,0,0,0,0,0,0,0.876,-0.504,-1.492
+ Ýnsanlarýn daha çok hangi mallarý almak istediklerini öðrenmeye çalýþýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,1.176,0,0,0,0,0,0,0,1.202,-0.382,-1.819
+ Okul kantini ya da kooperatifini yönetmek ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,1.253,0,0,0,0,0,0,0,0.236,-1.044,-2.035
+"Arkadaþlarýnýza bilye, sakýz, çilolata vb. þeyler sattýnýz mý? Ya da satmak ister misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,1.114,0,0,0,0,0,0,0,0.008,-1.078,-1.961
+ Yaz aylarýnda bir dükkanda ya da ticarethanede çalýþmak ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,1.092,0,0,0,0,0,0,0,0.735,-0.534,-1.505
+ Televizyondaki reklamlarýn daha iyi nasýl yapýlabileceði üzerinde araþtýrma yapan bir grubun içinde yer almak ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,1.251,0,0,0,0,0,0,0,1.07,-0.417,-1.5
+ Evleri dolaþýp bir malýn tanýtýmýný yapmaktan hoþlanýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,1.509,0,0,0,0,0,0,0,-0.103,-1.409,-2.556
+"Çevrenizdeki eþyalarýn, ürünlerin, satýlsalar kaç lira edeceklerini düþünür müsünüz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,1.143,0,0,0,0,0,0,0,2.073,0.356,-1.069
+Bir malý satmak için neler yapmak gerektiðini öðreten bir kursa katýlmak ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,1.964,0,0,0,0,0,0,0,0.085,-1.682,-3.026
+"Gazete, boþ þiþe gibi kullanýlmýþ þeyleri satarak para kazanmayý düþünür müsünüz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,1.775,0,0,0,0,0,0,0,-0.881,-2.222,-3.433
+ Bir þeyi satýn alacaðýnýz zaman çeþitli dükkanlarý dolaþýp fiyatlarý karþýlaþtýrarak gereðini duyar mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0.625,0,0,0,0,0,0,0,2.31,0.632,-0.549
+Gelecekte kendinizi bir tüccar olarak düþlediðiniz olur mu?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,1.588,0,0,0,0,0,0,0,-0.726,-2.107,-3.223
+"Bir kýr gezisinde daha önce görmesdiðiniz bitki ve hayvalarýn adlarýný, özelliklerini öðrenmeye çalýþýr mýsýnýz ? ",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0.978,0,0,0,0,0,0,2.278,0.566,-0.732
+Evinizde ipekböceði yetiþtirip bakýmýný üsteleneblir misiniz? ,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,1.11,0,0,0,0,0,0,0.175,-0.963,-1.923
+Yeni çiçek türleri yetiþtirmeyi denemek ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,1.321,0,0,0,0,0,0,1.609,0.057,-1.072
+ “Hayvanat bahçesine getirilen hayvanlarýn yeni çevreye uyum sorunlarý” konulu bir belgesel filmi ilgi ile izler misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,1.423,0,0,0,0,0,0,1.914,0.103,-1.089
+ Bir çiftliðin yöneticisi olmayý düþünür müsünüz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,1.448,0,0,0,0,0,0,0.65,-0.83,-1.973
+ Kaliteli meyve yetiþtiren bir üretici olmayý düþünür müsünüz?   ,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,1.306,0,0,0,0,0,0,0.716,-0.58,-1.613
+Evcil hayvanlarýn hangi koþullarda ve ortamda daha iyi geliþtiklerini incelemekten hoþlanýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,1.598,0,0,0,0,0,0,2.259,0.419,-0.985
+"Evde bir hayvan (kuþ) besler, bakýmýný yapar mýsýnýz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,1.02,0,0,0,0,0,0,2.14,1.062,0.167
+Saksýda ve bahçede çiçek yetiþtirip bakýmýný üstlenir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,1.249,0,0,0,0,0,0,1.939,0.457,-0.698
+Havuzlarda balýk üretme yöntemlerini gösteren bir filmi ilgi ile izler misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,1.629,0,0,0,0,0,0,0.862,-0.812,-2.041
+ Açýk havada çalýþmaktan hoþlanýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0.604,0,0,0,0,0,0,2.766,1.155,-0.084
+ Bir makinanýn þemasýna bakarak makineyi kurabilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,1.298,0,0,0,0,0,2.602,0.441,-1.292
+"Kapý zili, kilit gibi ev aletlerini onarmaya çalýþýr mýsýnýz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,1.65,0,0,0,0,0,1.223,-0.166,-1.355
+Tahtadan veya metalden oyuncaklar yapabilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,1.713,0,0,0,0,0,1.468,-0.471,-1.742
+Bir aleti parçalara ayýrýp tekrar birleþtirebilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,1.695,0,0,0,0,0,2.605,0.864,-0.693
+"Yeni bir alet veya makine ile karþýlaþtýðýnýzda, hemen onun nasýl çalýþtýðýný öðrenmeye çalýþýr mýsýnýz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,1.7,0,0,0,0,0,2.953,0.898,-0.528
+ Elektrikli aletlerin nasýl iþlediklerini inceler misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,2.184,0,0,0,0,0,2.126,-0.002,-1.491
+"Her türlü araç ve gereç saðlansa, bir eþya(örneðin kafes/gemi) yapmayý dener misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,1.569,0,0,0,0,0,2.011,0.294,-0.95
+"Bir makinanýn, örneðin bir elektrik motorunun, evrimini gösteren bir sergiyi gezmek ister misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,1.37,0,0,0,0,0,1.566,0.171,-0.974
+Bir makinanýn çalýþmasýný geliþtirici yöntemler düþünür müsünüz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,2.18,0,0,0,0,0,1.834,-0.225,-1.894
+"Çevrenizdeki çeþitli makinalarýn bakýmýný yapar, onlarý bozmadan kullanabilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,1.698,0,0,0,0,0,2.118,0.161,-1.516
+"Bir aleti, tarifesine ve þemasýna bakarak çalýþtýrabilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,1.513,0,0,0,0,0,2.885,0.861,-0.936
+"Bir yazýdaki hatalarý düzeltmekten, bir hesabý kontrol etmekten hoþlanýr mýsýnýz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,1.128,0,0,0,0,1.992,0.195,-1.058
+ Yaptýðýnýz herhangi bir iþin temiz ve özenli olmasý için gereken özeni gösterir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,1.438,0,0,0,0,3.601,1.764,0.075
+Bir iþin ince ayrýntýlarý ile uðraþýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,1.112,0,0,0,0,2.106,0.467,-0.907
+ Paranýzý nerelerde harcadýðýnýzýn kaydýný tutar mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0.937,0,0,0,0,1.383,-0.001,-1.266
+ Derslerinize günü gününe çalýþýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,1.366,0,0,0,0,1.797,-0.192,-2.054
+ Mektuplarýnýzý eski okul karnelerinizi tarih sýrasýna koyup saklar mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,1.164,0,0,0,0,1.615,0.543,-0.3
+Aldýðýnýz her þeyin ya da yaptýðýnýz her iþin düzenli bir biçimde kaydýný tutar mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,1.471,0,0,0,0,1.544,-0.547,-2.057
+Ödevlerinizi zamanýnda ve düzgün biçimde yapar mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,1.383,0,0,0,0,2.859,0.991,-0.994
+" Eþyalarýnýzý yerli yerine koyar, çevrenizi düzenli tutar mýsýnýz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,1.259,0,0,0,0,2.611,0.701,-0.843
+" Mektuplarý zamanýnda cevaplandýrmaya, çaðrýldýðýnýz bir yere söz verdiðiniz saatte gitmeye çalýþýr mýsýnýz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,1.023,0,0,0,0,2.613,1.49,0.003
+Anýlarýnýzý yazar mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,1.127,0,0,0,0.958,-0.653,-1.647
+ Okulda þiir okuma yarýþmalarý düzenleyen bir grubun üyesi olmak ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,1.664,0,0,0,0.489,-0.966,-2.073
+Televizyonda veya radyoda þiir saatlerini izler misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,1.398,0,0,0,-0.589,-2.166,-3.22
+Kendini gelecekte bir yazar olarak düþlediðiniz olur mu?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,1.872,0,0,0,0.575,-1.168,-2.471
+Küçük hikayeler yazmayý dener misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,1.834,0,0,0,1.592,-0.418,-1.781
+"Roman, hikaye veya þiir okur musunuz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,1.291,0,0,0,2.516,0.611,-0.706
+Kompozisyon derslerinde baþarýlý mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,1.582,0,0,0,1.964,-0.151,-1.642
+Okul gazetesine yazý yazar mýsýnýz? (Yazmak ister misiniz?),Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,1.955,0,0,0,0.528,-1.156,-2.389
+Gazete ve dergilerdeki edebiyat sütunlarýný okur musunuz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,1.678,0,0,0,0.548,-1.394,-2.722
+Okul kitaplýðýna gider ve kitap alýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,1.164,0,0,0,0.564,-0.945,-2.113
+Yaptýðýnýz her hangi bir þeyi özenle süsler misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0.982,0,0,3.005,0.885,-0.496
+"Ünlü sanatçýlarýn, ressamlarýn hayatýný merak eder misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,1.161,0,0,1.313,-0.391,-1.518
+"Boþ vakitlerinizde çiçek, nakýþ, resim, heykel vb. yapar mýsýnýz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,1.853,0,0,0.815,-1.082,-2.335
+ Televizyonda resim sanatý ile ilgili haberleri ilgi ile izler misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,2.131,0,0,0.806,-1.387,-2.823
+"Gittiðiniz bir kentte sanat galerilerini, resim sergilerini gezmek ister misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,1.677,0,0,1.941,0.073,-1.253
+ Resim ve mimarlýk sanatýnýn geliþimini anlatan bir kitabý zevkle okur musunuz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,1.583,0,0,1.01,-0.668,-1.79
+ Boþ vakitlerinizi resim veya el iþleri yaparak geçirmeye çalýþýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,2.129,0,0,1.23,-0.635,-1.974
+Bir evi ya da salonu süslemekten hoþlanýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,1.053,0,0,2.111,0.567,-0.576
+"Odanýzý, yaptýðýnýz resim veya el iþleri ile süsler misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,1.558,0,0,1.084,-0.441,-1.497
+El sanatlarý ya da resim kurslarýna gitmek ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,2.193,0,0,1.037,-0.755,-2.006
+Radyo ve televizyonda müzik programlarýný isler misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.968,0,0.427,-0.982,-1.973
+Müzik yarýþmalarýna katýlmak ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.786,0,0.43,-1.01,-2.133
+Müzik dersleri alýyor musunuz veya almak ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.468,0,1.038,-0.144,-1.103
+Bir müzik aleti çalar mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.086,0,0.952,-0.267,-0.999
+Müzik aletleri sergisini gezmek ister misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.88,0,1.393,-0.398,-1.532
+Çeþitli ülkelerin halk þarkýlarýný tanýtan bir program izler misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.357,0,0.834,-0.84,-2.039
+ Ýmkanlarýnýz ölçüsünde konserlere gitmeye çalýþýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.998,0,1.55,0.239,-0.88
+ Ufak tefek besteler yapmaya çalýþýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.668,0,0.782,-0.792,-2.03
+Baþkalarýna dinletecek düzeyde bir müzik aleti çalýyor musunuz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.342,0,0.13,-1.193,-2.104
+Yeni duyduðunuz bir müzik parçasýný çalmaya veya söylemeye çalýþýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.426,0,2.371,0.707,-0.696
+Aðlayan bir çocuðu oyalayabilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.366,3.063,1.451,-0.198
+Yaþlýlar yurdunda eðlence günleri düzenlemekten hoþlanýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.712,1.665,-0.11,-1.525
+Baþkalarýna kiþisel sorunlarýn çözümünde yardýmcý olabiliyor musunuz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.3,3.341,1.072,-0.807
+ Çocuk gürültüsüne katlanabilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.878,1.051,-0.223,-1.505
+ Belli bir anda pek çok þeye birden dikkat edebilir misiniz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.782,2.91,0.615,-1.011
+"Bir hastaya bakabilir, ilaçlarýný zamanýnda verebilir misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.415,2.466,0.535,-0.935
+"Bir hastanede, yaz aylarýnda gönüllü olarak çalýþmak ister misiniz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.421,1.007,-0.4,-1.472
+Karþýnýzdaki insanlarýn ne düþündükleri ve ne hissettiklerini anlayabilir misiniz.,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.878,3.247,1.253,-0.559
+Hastalar ve yaþlýlara kitap okumaktan hoþlanýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.917,1.598,-0.369,-1.804
+"Küçük çocuklara oyun öðretmekten, onlara þarký söylemekten hoþlanýr mýsýnýz?",Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.543,1.94,0.507,-0.738
+Ayakta ve hareketli olarak çalýþmaktan hoþlanýr mýsýnýz?,Hiçbir zaman,Ara sýra ,Sýk sýk,Her zaman,NA,radio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.813,2.143,0.396,-0.988
